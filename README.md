@@ -19,6 +19,10 @@ Features
 
  📸 Screenshots
 
+<img width="941" alt="s2" src="https://github.com/user-attachments/assets/204f35c8-4a23-4293-8a11-ea74c5fd42e2" />
+
+ <img width="959" alt="s1" src="https://github.com/user-attachments/assets/fb5bd4da-73e3-434c-98c3-462303d1a869" />
+
 
  💻 Run Locally
 
